@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "akkadia",
+    "akkadia-vfs",
+    "akkadia-span"
+]
